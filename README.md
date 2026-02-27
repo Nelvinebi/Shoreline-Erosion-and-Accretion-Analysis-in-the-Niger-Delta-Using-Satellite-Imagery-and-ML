@@ -126,9 +126,17 @@ Apply deep learning models (CNN, LSTM)
 Incorporate sea-level rise and wave data
 
 👤 Author
+
 Ebingiye Nelvin Agbozu
-Environmental Science | Machine Learning | Remote Sensing
+Environmental Data Science | Machine Learning | Remote Sensing
 Nigeria
+
+Email: nelvinebingiye@gmail.com
+
+GitHub: *https://github.com/Nelvinebi
+
+LinkedIn: *https://www.linkedin.com/in/agbozu-ebi/
+
 
 📜 License
 This project is for academic and research purposes.
